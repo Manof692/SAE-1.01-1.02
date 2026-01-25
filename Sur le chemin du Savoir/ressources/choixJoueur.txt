@@ -1,0 +1,5 @@
+
+1> Lancer le dé.
+2> Utiliser un objet.
+3> Voir la Banque.
+ 

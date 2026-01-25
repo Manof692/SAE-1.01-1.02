@@ -1,0 +1,5 @@
+
+Bienvenu dans la boutique ! Que souhaitez-vous acheter ?
+1- Livre : 20 Pièces
+2- Bombe : 3 Pièces
+3- Rien
